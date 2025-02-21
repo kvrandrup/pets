@@ -7,7 +7,7 @@
 cats(love = TRUE)
 }
 \arguments{
-\item{love}{A logical argument indicating whether or not you love cats (defauls = "TRUE")}
+\item{love}{A logical argument indicating whether or not you love cats (default = "TRUE")}
 }
 \value{
 One of two possible character strings (\code{"I love cats!"} or \code{"I am not a cat person."}).
